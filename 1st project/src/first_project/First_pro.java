@@ -1,0 +1,13 @@
+package first_project;
+
+public class First_pro 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("hello world");
+		// TODO Auto-generated method stub
+
+	}
+
+}
